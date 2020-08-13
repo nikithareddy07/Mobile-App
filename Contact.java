@@ -1,5 +1,5 @@
 package application;
-/* @author Mayuri Waghmode
+/* @author Nikitha Reddy
  * @since 10-21-2018 
  * Time : 5:15 AM
  * Purpose : a Contact class for contacts (name and phone number)
