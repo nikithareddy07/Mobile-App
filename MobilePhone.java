@@ -1,4 +1,4 @@
-/* @author Mayuri Waghmode
+/* @author Nikitha Reddy
  * @since 10-30-2018 
  * Time : 10:30 AM
  * Purpose : MobilePhone that holds the ArrayList of Contacts, and has functionalities like add,delete,update,search,print.
