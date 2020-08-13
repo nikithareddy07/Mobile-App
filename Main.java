@@ -1,6 +1,6 @@
 package application;
 /**
- * @author Mayuri Waghmode
+ * @author Nikitha Reddy
  * @since 11-11-2018 
  * Time : 10:30 AM
  * Purpose : Main class contains javafx mobile application 
